@@ -1,3 +1,10 @@
+/* Question 2:
+         2. To create  Own Resume Data in JSON format.
+*/ 
+
+
+
+
 let resume = {
     Personal_information: {
         name: "JANANI R",

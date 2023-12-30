@@ -1,3 +1,10 @@
+/* Question 1:
+     
+    1. For the given JSON iterate over all for loops.
+    (for, for...in, for...of, forEach loops).
+*/ 
+
+
 let resume = {
     Personal_information: {
         name: "JANANI R",
