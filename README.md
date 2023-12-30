@@ -9,7 +9,6 @@
 
  + Create your **Own Resume** data in `JSON` format.
 
++ The first task in the `loop.html` and `loop.js` file.
 
-+ The first task in the `index.html` and `script.js` file.
-
-+ The second task in the `loop.html` and `loop.js` file.
++ The second task in the `index.html` and `script.js` file.
